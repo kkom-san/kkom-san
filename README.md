@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Medibangpaint-00DBDE?style=flat-square&logo=medibangpaint&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Autodesk-000000?style=flat-square&logo=autodesk&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=csharp&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>&nbsp;
