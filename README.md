@@ -10,18 +10,22 @@
 
 <h3>tech stack 🛠️</h3>
 
-<img src="https://img.shields.io/badge/photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/aftereffects-999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/premierpro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/medibangpaint-00DBDE?style=flat-square&logo=medibangpaint&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/autodesk-000000?style=flat-square&logo=autodesk&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/csharp-239120?style=flat-square&logo=csharp&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/AfterEffects-999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Premierpro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Medibangpaint-00DBDE?style=flat-square&logo=medibangpaint&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Autodesk-000000?style=flat-square&logo=autodesk&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=csharp&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkom-san&layout=compact&theme=radical)
 
+![kkom-san's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkom-san&show_icons=true&theme=radical)
 
