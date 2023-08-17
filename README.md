@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Premierpro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Medibangpaint-00DBDE?style=flat-square&logo=medibangpaint&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Git&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Autodesk-000000?style=flat-square&logo=autodesk&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Csharp-239120?style=flat-square&logo=csharp&logoColor=white"/>&nbsp;
