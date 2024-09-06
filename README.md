@@ -1,5 +1,4 @@
 <div align="center">
-
 <h3> 3D game grahpic desiner & Game directer 💻 </h3>
 
 <h4>I am mainly in charge of game graphic design.</h4>
